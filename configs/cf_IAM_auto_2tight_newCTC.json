@@ -1,6 +1,6 @@
 {
     "name": "IAM_auto_2tight_newCTC",
-    "cuda": falsr,
+    "cuda": false,
     "gpu": 0,
     "save_mode": "state_dict",
     "override": true,
