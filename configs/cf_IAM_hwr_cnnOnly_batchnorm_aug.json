@@ -8,14 +8,14 @@
     "data_loader": {
         "data_set_name": "HWDataset",
 
-        "data_dir": "../data/IAM/",
+        "data_dir": "data/IAM/",
         "batch_size": 16,
         "shuffle": true,
         "num_workers": 6,
 
         "augmentation": true,
         "img_height": 64,
-        "char_file": "./data/IAM_char_set.json",
+        "char_file": "data/IAM_char_set.json",
         "center_pad": false
     },
     "validation": {
